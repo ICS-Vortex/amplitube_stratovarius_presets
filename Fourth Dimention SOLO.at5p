@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Preset Version="2" Format="at5p" GUID="f4f88390-4772-4654-a20d-526c712023f8" PresetBPM="120" ProgramChange="-1">
+<Preset Version="2" Format="at5p" GUID="02471216-fdc8-44fc-92c6-d834c2f9483a" PresetBPM="120" ProgramChange="-1">
     <Chain Preset="Chain11" DIBeforeAmp="0" />
     <Input Input="5.28929" />
     <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
@@ -51,7 +51,7 @@
         <Slot5 />
     </StompB3>
     <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="75ad4a0e-5c75-443d-8617-9681c4fe58d3">
-        <Amp Ch3Presence_MesaDualRectifier="5.6" Ch3Master_MesaDualRectifier="1.29688" Ch3Gain_MesaDualRectifier="9.45781" Ch3Bass_MesaDualRectifier="2.83906" Ch3Mid_MesaDualRectifier="7.2125" Ch3Treble_MesaDualRectifier="3.43906" Ch3Type_MesaDualRectifier="Modern" Ch2Presence_MesaDualRectifier="7.8" Ch2Master_MesaDualRectifier="2" Ch2Gain_MesaDualRectifier="8.1" Ch2Bass_MesaDualRectifier="4.1" Ch2Mid_MesaDualRectifier="6.4" Ch2Treble_MesaDualRectifier="5.3" Ch2Type_MesaDualRectifier="Vintage" Ch1Presence_MesaDualRectifier="7.42188" Ch1Master_MesaDualRectifier="2" Ch1Gain_MesaDualRectifier="8.1" Ch1Bass_MesaDualRectifier="4.6875" Ch1Mid_MesaDualRectifier="8.35938" Ch1Treble_MesaDualRectifier="6.2" Ch1Type_MesaDualRectifier="0" Channele_MesaDualRectifier="Ch 3" BiasType_MesaDualRectifier="0" RectifierType_MesaTripleRectifier="1" PowerType_MesaDualRectifier="1" />
+        <Amp Ch3Presence_MesaDualRectifier="5.6" Ch3Master_MesaDualRectifier="1.12141" Ch3Gain_MesaDualRectifier="9.45781" Ch3Bass_MesaDualRectifier="0.729685" Ch3Mid_MesaDualRectifier="7.2125" Ch3Treble_MesaDualRectifier="3.43906" Ch3Type_MesaDualRectifier="Modern" Ch2Presence_MesaDualRectifier="7.8" Ch2Master_MesaDualRectifier="2" Ch2Gain_MesaDualRectifier="8.1" Ch2Bass_MesaDualRectifier="4.1" Ch2Mid_MesaDualRectifier="6.4" Ch2Treble_MesaDualRectifier="5.3" Ch2Type_MesaDualRectifier="Vintage" Ch1Presence_MesaDualRectifier="7.42188" Ch1Master_MesaDualRectifier="2" Ch1Gain_MesaDualRectifier="8.1" Ch1Bass_MesaDualRectifier="4.6875" Ch1Mid_MesaDualRectifier="8.35938" Ch1Treble_MesaDualRectifier="6.2" Ch1Type_MesaDualRectifier="0" Channele_MesaDualRectifier="Ch 3" BiasType_MesaDualRectifier="0" RectifierType_MesaTripleRectifier="1" PowerType_MesaDualRectifier="1" />
     </AmpA>
     <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="8fe96936-5178-4950-9b80-d89c32534bad">
         <Amp Sensitivity_JCM800AT4="1" Presence_JCM800AT4="5" Bass_JCM800AT4="4" Middle_JCM800AT4="5" Treble_JCM800AT4="6" Master_JCM800AT4="5.5" PreAmp_JCM800AT4="5" />
